@@ -1,3 +1,8 @@
+Logicsquare questions one,two and four and there answers 
+que no 1 and will be written in javascript
+The four no que will be written in reactjs 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
